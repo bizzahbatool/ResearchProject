@@ -4,7 +4,7 @@
 Survey Methodology
 ------------------------------------
 1) HRB-Research Methods
-2) https://www.coursera.org/specializations/data-collection - 7 Courses
+2) https://www.coursera.org/specializations/data-collection
   Course 1 - Framework for Data Collection and Analysis
   Course 2 - Data Collection: Online, Telephone and Face-to-face
   Course 3 - Questionnaire Design for Social Surveys
